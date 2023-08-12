@@ -7,9 +7,6 @@
 - [Abhishek](https://github.com/kanshimama) 💻  
 - [Shalique](https://github.com/ShalikOP) 🧠  
 
-### Supervisor
- - [Rishov da](https://github.com/rishovnag) 🔥  
-
  
 ### To run the project 
 - Make sure you have xammp downloaded <br>
